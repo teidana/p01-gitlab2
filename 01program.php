@@ -6,4 +6,6 @@ echo ("<br> Test pierwszy");
 echo ("<br> Test drugi");
 echo ("<br> Życzę wszystkim dobrego dnia");
 echo ("<br>Dalsza czesc programu");
+echo ("<br>Dalsza czesc programu drugiego");
+
 ?>
